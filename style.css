@@ -1,4 +1,19 @@
 .titulo {
-
+    display: flex;
+    justify-content: center;
     color: red;
+}
+
+.paragrafo {
+    display: flex;
+    justify-content: center;
+}
+
+.entrada {
+    display: flex;
+    justify-content: center;
+}
+.botao {
+    display: flex;
+    justify-content: center;
 }
